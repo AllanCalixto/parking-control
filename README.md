@@ -1,6 +1,5 @@
 # Parking Control
-- É uma API (Application Programming Interface) que gerencia vagas de estacionamentos para condominios que foi desenvolvida para fins didáticos, buscando aprimoramento na linguagem Java e em algumas
-- das principais tecnologias utilizadas no mercado.
+- É uma API (Application Programming Interface) que gerencia vagas de estacionamentos para condominios que foi desenvolvida para fins didáticos, buscando aprimoramento na linguagem Java, banco de dados Postgresql rodando em container Docker além de outras das principais tecnologias utilizadas no mercado.
 
 ## Principais funcionalidades
 - Verificação de vagas disponiveis por apartamento/usuário;
